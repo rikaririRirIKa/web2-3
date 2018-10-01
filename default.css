@@ -23,26 +23,26 @@
         }
  body{
       background-color:#f0f8ff;
-      background-image:url(../img/01.jpg)
-      background-repeat:repeat
+      background-image:url(../img/01.jpg);
+      background-repeat:repeat;
      }
  h1 span{
     font-size:1.75em;
-    color:#00ff7f
+    color:#00ff7f;
    }
  h2{
     font-size:1.25em;
-    color:#00ff7f
+    color:#00ff7f;
    }
  p{
    font-size:0.8em;
    background-color:#008080;
-   color:#00ff7f
+   color:#00ff7f;
   }
  a{
    color:#dc143c;
   }
  a:hover{
-         color:#0000ff
+         color:#0000ff;
         }
 
